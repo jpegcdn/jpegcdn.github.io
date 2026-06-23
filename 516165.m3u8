@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.000000,
+https://static.yximgs.com/udata/pkg/ffa35283bc2246a081572d72df74a237.png
+#EXTINF:3.720000,
+https://static.yximgs.com/udata/pkg/09cecfc88702452592c5482786934794.png
+#EXT-X-ENDLIST
